@@ -16,17 +16,6 @@ pip install pygame Pillow
 
 If you use a virtual environment, activate it first.
 
-## Run
-
-```powershell
-# If your terminal is in the repo root folder:
-python .\ascii_words-main\main.py
-
-# Or cd into the folder first:
-cd .\ascii_words-main
-python .\main.py
-```
-
 ## Usage
 1) Type your word in the input field.
 2) Toggle Image or Draw under the input field.
@@ -69,6 +58,7 @@ Notes:
 ## License
 
 MIT (or your preferred license)
+
 
 
 
