@@ -31,7 +31,7 @@ python .\main.py
 1) Type your word in the input field.
 2) Toggle Image or Draw under the input field.
 3) If Image: click "Import Image" and choose a picture. If Draw: sketch in the art panel, then click "Generate ASCII Art".
-   
+!{image alt}(https://github.com/Joey-Yuan/Word-ASCII-Art-Generator/blob/070f1a94cb266066a72c1450e5babac6ba1bce7b/instruction.png)   
 5) Adjust Width/Height and toggle Lock Aspect as needed.
 6) Use Text Density to control how filled the output looks.
 7) Use Zoom and X/Y Offset to frame the preview (preview only).
@@ -65,3 +65,4 @@ Notes:
 ## License
 
 MIT (or your preferred license)
+
